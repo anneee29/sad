@@ -4,4 +4,4 @@
 系級：科技系113
 
 ## WEB 3.0 技能樹
-[技能樹]([https://gitmind.com/app/docs/ml1hlgg3])
+[技能樹](https://gitmind.com/app/docs/ml1hlgg3)
