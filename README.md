@@ -25,3 +25,5 @@ Cryptocurrency wallet allows users to interact with the dApp, make transactions,
 * https://www.coursera.org/learn/decentralized-apps-on-blockchain#syllabus
 -->
 
+## 作業1
+[YouTube連結](https://youtu.be/TMauw5cIRKA)
