@@ -29,4 +29,4 @@ Cryptocurrency wallet allows users to interact with the dApp, make transactions,
 [YouTube連結](https://youtu.be/TMauw5cIRKA)
 
 ## 作業2
-[YouTube連結]（https://youtu.be/QTLVBG_MgvA)
+[YouTube連結](https://youtu.be/QTLVBG_MgvA)
